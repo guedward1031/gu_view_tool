@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GuViewTool::Renderer.copyright 'Edward Gu', 'All rights reserved'
+```
 
 ## Development
 
